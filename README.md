@@ -1,6 +1,7 @@
 # nuxttest
 
 > My splendid Nuxt.js project
+> Generated from Vue into a static site
 
 ## Build Setup
 
