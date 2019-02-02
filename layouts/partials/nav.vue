@@ -1,6 +1,6 @@
 <template>
     <header>
-        <nuxt-link to="/" class="logo">Our Nuxt</nuxt-link>
+        <nuxt-link to="/" class="logo">Jaakit</nuxt-link>
         <nav>
             <ul>
                 <li><nuxt-link to="/">Home</nuxt-link></li>
@@ -21,7 +21,7 @@ export default {
 
 <style>
 header {
-    background: rgb(156, 185, 168);
+    background: rgb(91, 231, 150);
     display: grid;
     grid-template-columns: repeat(2, auto);
 }
@@ -45,6 +45,11 @@ li {
     display: inline;
 }
 li a {
+    padding: 1em 2em;
+    display: inline-block;
+    background: rgba(255, 255, 255, 0.042);
+}
+li a:hover {
     padding: 1em 2em;
     display: inline-block;
     background: rgba(0, 0, 0, 0.042);

@@ -1,3 +1,8 @@
+# Jaakit New Site
+
+> Not yet active as the main site, but...
+> can be seen at https://jaakit-nuxt.firebaseapp.com/
+
 # nuxttest
 
 > My splendid Nuxt.js project

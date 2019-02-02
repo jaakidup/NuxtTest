@@ -1,7 +1,7 @@
 <template>
   <section class="container">
-    <h1>The Best Nuxt</h1>
-    <p class="subheading">We've got the best nuxt's.</p>
+    <h1>Jaakit</h1>
+    <p class="subheading">Funky Jaakit</p>
     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Distinctio inventore adipisci harum vero quisquam similique rem culpa unde, incidunt assumenda excepturi. Cumque non soluta ullam iusto delectus veniam sapiente vero?</p>
   </section>
 </template>
@@ -11,10 +11,10 @@
 export default {
     head() {
         return {
-            title: "Super Nuxt",
+            title: "Jaakit",
             meta: [
-                { name: "description", content: "Our super nuxt home"},
-                { name: "keywords", content: "Nuxt stuff, nuxt home"}
+                { name: "description", content: "Jaakit"},
+                { name: "keywords", content: "Jaakit"}
             ]
         }
     }
